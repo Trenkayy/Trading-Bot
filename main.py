@@ -1,3 +1,6 @@
+#Trading Bot
+#2025
+
 import tkinter as tk
 from tkinter import ttk
 import sys
@@ -167,3 +170,4 @@ analysis_label.grid(row=2, column=1, padx=10, pady=10)
 
 # Start the app
 root.mainloop()
+ 
